@@ -10,6 +10,7 @@
 
 
 Hello, friends I am Sagar from therankme.com. with this website to app code, I gonna show you how you can convert your website into an Android app. so let's start without spoiling the time. 
+
 ## **--------------------------STEPS----------------------------**
 **1.Download the zip file. To download the zip file follow the steps.**
 
@@ -43,7 +44,7 @@ Hello, friends I am Sagar from therankme.com. with this website to app code, I g
 
 **5. Customize code to make your Android app. To customize it just follow the given steps.**
 
-- On the left side, there is an app folder. so just click on it. and then open on java folder. in the java folder open { com.example.SagarJangra } folder now in this folder we have a MainActivity file. open the MainActivity file.
+- On the left side, there is an app folder. so just click on it. and then open java folder. in the java folder open { com.example.SagarJangra } folder now in this folder we have a MainActivity file. open the MainActivity file.
 - Now in the MainActivity file find this link [ https://therankme.com ] by praising the { Ctrl + F } key on the keyboard. and replace this link with your website URL.
 - Now right click on { res } folder and then go to new and then click on { image Assets }.here a pop-up window will be open. just g to the path and then select your app icon image and then open it. and then click on the { Next } button and at last click on the finish button.
 - Now click on { res } folder. in { res } folder double click on values folder. In the values folder, we have { string.xml } file so just open it. and in the { strings.xml } folder search for [ Therankme ] by praising the { Ctrl + F } key on the keyboard. and replace this link with your app name. and save it by [ ctrl + S ].
@@ -56,5 +57,7 @@ Hello, friends I am Sagar from therankme.com. with this website to app code, I g
 **For more information or if you need any help.**
 - Mobile Number= +919996635438
 - Email id= admain@therankme.com
+- Youtube = https://youtube.com/c/therankme
+- Instagram = https://instagram.com/therankme
 
 # **You Can Also Hire Me To make your website or app**
